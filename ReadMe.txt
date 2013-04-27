@@ -1,1 +1,0 @@
-This is the Try_Git repository from the Try_Git tutorial. My very own first repository :)
