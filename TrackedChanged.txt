@@ -1,2 +1,0 @@
-Dit is een testje om de tutorial/documentatie van Git door te nemen. Deze is om te testen hoe het werkt als ik
-tracked files aanpas.
